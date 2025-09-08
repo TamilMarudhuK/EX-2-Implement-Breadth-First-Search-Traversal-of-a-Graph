@@ -90,4 +90,4 @@ BFS Traversal Order: ['A', 'B', 'C']
 <img width="395" height="61" alt="Screenshot 2025-09-08 141823" src="https://github.com/user-attachments/assets/0cf0bebc-501a-4f6f-a7b2-4f50c8ae755a" />
 
 ### Result:
-Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
+Thus the program to implement bredth first search of a traversal graph has been executed successfully.
